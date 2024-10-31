@@ -1,0 +1,14 @@
+
+.slick-dots {
+	margin-top: 20px;
+}
+
+.slick-dots li button:before {
+    font-size: 20px;
+    line-height: 21px;
+    text-align: center;
+    opacity: .25;
+    color: #fff;
+    background: green;
+    border-radius: 50%;
+}
